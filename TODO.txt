@@ -1,0 +1,11 @@
+1. Styling anpassen
+1.1. CSS
+1.2. Logo finden
+1.3. Größe des Fenster FIXEN
+2. Code Refactor (RadioButton)
+3. Testen  
+4. Alternative für Collections.Shuffle schreiben? Eventuell mit einer Art Gewichtung mal sehen als UTIL anbieten
+5. Funktionalität erweitern 
+5.1. Mehr (Sonder)-Zeichen Hinzufügen
+5.2. Eingabe für die Anzahl der zugenerierenden Zeichen, mit mindesten 8 und maximal 32
+5.3. Mehrere Mit einmal generieren 
